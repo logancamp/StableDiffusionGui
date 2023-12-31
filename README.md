@@ -15,7 +15,7 @@ Runs on Windows</b>
 After running the stable diffusion file: <br><br>
 <img src="https://i.imgur.com/XcLH73c.png" height="80%" width="80%" alt="open"/> <br><br> 
 <br/>
-This is the main application page, you can enter a prompt and a style in the designated text boxes. When addint styles you can add multiple separated by commas, there is also a catelog of styles to choose from. Before running your prompt you may also select an image to use for image to image generation. Finally you must choose a model from the list provided. You can add more models if you wish but they must be sources from Hugging Face. The model with the best results is the stable diffusion model. This is depicted here: <br><br>
+This is the main application page, you can enter a prompt and a style in the designated text boxes. When adding styles you can add multiple separated by commas, there is also a catalog of styles to choose from. Before running your prompt you may also select an image to use for image-to-image generation. Finally, you must choose a model from the list provided. You can add more models if you wish but they must be sources from Hugging Face. The model with the best results is the stable diffusion model. This is depicted here: <br><br>
 <img src="https://i.imgur.com/zjSB4Wj.png" height="80%" width="80%" alt="model"/> <br><br> 
 <br/>
  
