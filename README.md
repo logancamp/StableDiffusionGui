@@ -19,7 +19,7 @@ This is the main application page, you can enter a prompt and a style in the des
 <img src="https://i.imgur.com/zjSB4Wj.png" height="80%" width="80%" alt="model"/> <br><br> 
 <br/>
  
-<h2>Running a prompt:<h2><br>
+<h2>Running a prompt:</h2> <br>
 After clicking run it may take longer the first time, after the different parts load the generation won't take too long. You wiull be able to see the progress of the generation in the terminal: <br><br>
 <img src="https://i.imgur.com/RiQ6Cne.png" height="80%" width="80%" alt="running"/> <br><br>
 
